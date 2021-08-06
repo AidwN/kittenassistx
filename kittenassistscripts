@@ -1,0 +1,15 @@
+--Synapse 
+_G.FarKey = "q"
+_G.CloseKey = "t"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EvansScripts/pornografiaa/main/synapsedahood.lua"))()
+----------------------------------------------------------------------------------
+--Script Ware
+_G.FarKey = "q"
+_G.CloseKey = "t"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EvansScripts/pornografiaa/main/scriptwaredh.lua"))()
+-----------------------------------------------------------------------------------
+--Others
+_G.FarKey = "q"
+_G.CloseKey = "t"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EvansScripts/pornografiaa/main/otherdh.lua"))()
+-----------------------------------------------------------------------------------
